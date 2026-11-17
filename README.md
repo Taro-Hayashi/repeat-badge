@@ -17,3 +17,10 @@ Mac・iPhone・iPadのSafari向けに、QRコード発行済みフィルタと�
 MIT License — see [LICENSE](LICENSE).
 
 公開先はCloudflare Pagesへ移転しました。このリポジトリのGitHub Pagesは旧URLからの移転案内に使用します。
+
+## Firefox・Chrome版のソース
+
+機能ごとに別の拡張機能として公開しています。
+
+- [リピーターバッジ](https://github.com/Taro-Hayashi/booth-repeat-badge)
+- [QRコード発行済みタブ](https://github.com/Taro-Hayashi/booth-qr-filter)
