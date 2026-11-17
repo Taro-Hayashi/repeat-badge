@@ -6,7 +6,7 @@ Mac・iPhone・iPadのSafari向けに、QRコード発行済みフィルタと�
 
 - [サポート](https://tarohayashi.com/badge/)
 - [プライバシーポリシー](https://tarohayashi.com/badge/privacy.html)
-- [お問い合わせ・不具合報告](https://github.com/Taro-Hayashi/booth-badge/issues)
+- [お問い合わせ・不具合報告](https://github.com/Taro-Hayashi/repeat-badge/issues)
 
 注文番号、購入者情報、ログイン情報を公開投稿へ含めないでください。
 
