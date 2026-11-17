@@ -2,3 +2,9 @@
 * { box-sizing: border-box; } body { margin: 0; background: #f5f7f9; color: #20272f; line-height: 1.85; }
 main { max-width: 780px; margin: auto; padding: 54px 24px; } h1 { font-size: clamp(30px, 6vw, 48px); letter-spacing: -1px; line-height: 1.2; } h2 { font-size: 22px; margin-top: 36px; } a { color: #176a45; } .eyebrow { color: #176a45; font-size: 13px; font-weight: 700; letter-spacing: 2px; } .lead { font-size: 21px; } section { margin: 28px 0; } li { margin: 8px 0; } footer { margin-top: 48px; border-top: 1px solid #ccd5df; padding-top: 20px; font-size: 13px; color: #56616f; } :focus-visible { outline: 3px solid #367dd2; outline-offset: 3px; }
 @media (prefers-color-scheme: dark) { body { background: #181d23; color: #edf2f5; } a, .eyebrow { color: #7ddbb0; } footer { color: #b0bbc7; border-color: #536173; } }
+
+.screenshots { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; margin: 24px 0; }
+.screenshots figure { margin: 0; min-width: 0; }
+.screenshots img { display: block; width: 100%; height: auto; border-radius: 12px; border: 1px solid #ccd5df; }
+.screenshots figcaption { margin-top: 8px; font-size: 13px; line-height: 1.5; }
+@media (max-width: 480px) { .screenshots { gap: 10px; } }
